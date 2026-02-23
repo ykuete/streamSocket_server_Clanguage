@@ -1,0 +1,14 @@
+# Ignore Windows executables
+*.exe
+
+# Ignore Object files (created during compilation)
+*.o
+*.obj
+
+# Ignore Linux/Mac executables (just in case you switch operating systems)
+*.out
+
+# Ignore IDE/Editor folders (like Visual Studio Code settings)
+.vscode/
+*.suo
+*.user
